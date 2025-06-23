@@ -6,15 +6,17 @@
 
 ## Sobre Mí:
 * Soy apasionado de la cultura pop en general, pero sin duda tengo un cariño especial por Pokémon.   
-<img src="Pokeball.png" width="30">
+<img src="Pokeball.png" width="56">
+
 ***
+
 * Me encantan los videojuegos; no discrimino plataformas, aunque mi favorita siempre será la PC.   
-<img src="Videogame.png" width="30">
+<img src="Videogame.png" width="56">
 
 ***
 
 * Hace poco decidí comenzar una vida físicamente activa. Practico diversas actividades, pero el Yoga se ha convertido en mi favorita.    
-<img src="Yoga.png" width="40">
+<img src="Yoga.png" width="56">
 
 ***
 

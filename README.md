@@ -10,13 +10,18 @@
 ***
 * Me encantan los videojuegos; no discrimino plataformas, aunque mi favorita siempre será la PC.   
 <img src="Videogame.png" width="30">
+
 ***
+
 * Hace poco decidí comenzar una vida físicamente activa. Practico diversas actividades, pero el Yoga se ha convertido en mi favorita.    
 <img src="Yoga.png" width="40">
+
 ***
+
 ### Redes Sociales:
+
 #### Quizá podamos ser amigos. Si te interesa, puedes encontrarme en...
 <img src="Discord.png" width="30"> otrotipogamer
-
+***
 <img src="Instagram.png" width="30"> otro_tipo_gamer
 

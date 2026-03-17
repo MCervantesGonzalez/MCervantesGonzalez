@@ -1,4 +1,6 @@
-# 👋 HELLO THERE, soy Miguel Cervantes | 📍 Zapopan, Jalisco, México
+# <img src="Kenobi.png" width="45"> HELLO THERE, soy Miguel Cervantes
+
+#### 📍 Zapopan, Jalisco, México
 
 ### <img src="Programador.png" width="30"> Backend Developer Jr | NestJS · TypeScript · PostgreSQL
 
@@ -96,9 +98,9 @@ Plataforma web para gestión de un gimnasio con roles diferenciados (usuario, co
 
 ***
 
-## Sobre Mí:
+## *Fuera del código, soy esto:*
 
-*Fuera del código, soy esto:*
+
 
 <img src="Pokeball.png" width="30"> Gran fan de Pokémon — elegir a Umbreon como favorito dice bastante de cómo pienso: elegante, nocturno y difícil de derribar.
 
@@ -108,7 +110,20 @@ Plataforma web para gestión de un gimnasio con roles diferenciados (usuario, co
 
 ***
 
+## 📊 GitHub Stats
+
+| | |
+|---|---|
+| ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MCervantesGonzalez&show_icons=true&theme=dark&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=MCervantesGonzalez&theme=dark&hide_border=true)](https://git.io/streak-stats) |
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCervantesGonzalez&layout=compact&theme=dark&hide_border=true)
+
+***
+
 ## 📬 Contacto
+
+*General Kenobi... o mejor dicho, reclutador.*
+*Si llegaste hasta aquí, quizás valga la pena hablar. 👇*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-cervantes-g)
 [linkedin.com/in/miguel-cervantes-g](https://www.linkedin.com/in/miguel-cervantes-g)

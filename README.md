@@ -10,7 +10,7 @@
 
 ***
 
-Desarrollador web fullstack con enfoque en **backend** y base profesional en derecho que refuerza mi pensamiento analítico y estructurado. Trabajo con **JavaScript**, **TypeScript**, **NestJS**, **PostgreSQL** y **TypeORM**, con especial interés en diseño de APIs REST, sistemas de autenticación/autorización y optimización de consultas. Me adapto a las necesidades del equipo — cuando el proyecto lo necesitó, tomé el frontend sin dudarlo.
+Desarrollador web fullstack con enfoque en **backend** y base profesional en derecho que refuerza mi pensamiento analítico y estructurado.<br />Trabajo con **JavaScript**, **TypeScript**, **NestJS**, **PostgreSQL** y **TypeORM**, con especial interés en diseño de APIs REST, sistemas de autenticación/autorización y optimización de consultas.<br />Me adapto a las necesidades del equipo, cuando el proyecto lo necesitó, tomé el frontend sin dudarlo.
 
 ***
 

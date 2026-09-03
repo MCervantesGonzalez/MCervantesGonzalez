@@ -131,4 +131,4 @@ Plataforma web para gestión de un gimnasio con roles diferenciados (usuario, co
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abg.cervantes@gmail.com)
 [abg.cervantes@gmail.com](mailto:abg.cervantes@gmail.com)
 
-📄 [__Descargar mi CV__](./CV_MiguelCervantes.pdf)
+📄 [__Descargar mi CV__](./CV-Miguel-Cervantes-FullStack.pdf)

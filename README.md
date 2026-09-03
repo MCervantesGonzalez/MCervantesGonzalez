@@ -110,4 +110,4 @@ Busco integrarme a un equipo de producto como **Full Stack Jr** y también tomo 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abg.cervantes@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/525630605063)
 
-📄 [Descargar CV en PDF](/CV-Miguel-Cervantes-FullStack.pdf)
+📄 [Descargar CV en PDF](./CV.pdf)

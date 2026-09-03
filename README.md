@@ -1,134 +1,113 @@
-# <img src="Kenobi.png" width="45"> HELLO THERE, soy Miguel Cervantes
+# <img src="Kenobi.png" width="45"> HELLO THERE, soy Miguel Cervantes - Full Stack Developer
 
-#### 📍 Zapopan, Jalisco, México
+### 📍 Zapopan, Jalisco, México 
 
-### <img src="Programador.png" width="30"> Backend Developer Jr | NestJS · TypeScript · PostgreSQL
+#### Desarrollador Full Stack con fortaleza en Backend | E-commerce, Web Apps y Paneles a medida
 
-***
+---
 
-### <img src="Abogado.png" width="30"> Abogado | *El derecho me enseñó a anticipar errores. El código me dio las herramientas para corregirlos.*
+### ⚖️ De Abogado a Dev
+> *El derecho me enseñó a anticipar errores. El código me dio las herramientas para corregirlos.*
 
-***
+Desarrollador Full Stack con base en Derecho que potencia mi pensamiento analítico y estructurado. Construyo productos de punta a punta: desde interfaces con **React, Next.js y Tailwind CSS** hasta arquitecturas backend con **NestJS, Node.js, PostgreSQL y TypeORM**.
 
-Desarrollador web fullstack con enfoque en **backend** y base profesional en derecho que refuerza mi pensamiento analítico y estructurado.<br />Trabajo con **JavaScript**, **TypeScript**, **NestJS**, **PostgreSQL** y **TypeORM**, con especial interés en diseño de APIs REST, sistemas de autenticación/autorización y optimización de consultas.<br />Me adapto a las necesidades del equipo, cuando el proyecto lo necesitó, tomé el frontend sin dudarlo.
+Me enfoco en e-commerce y plataformas con lógica de negocio real: checkouts, roles, pagos, stock y auth segura. Código limpio, mantenible y orientado a resolver problemas de negocio, no solo a hacer que funcione.
 
-***
+---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Principal
 
-**Backend**
+**Full Stack actual — lo que uso a diario**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-`REST APIs` · `JWT` · `Guards` · `Middleware` · `CORS`
-
-**Frontend**
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-`Componentes` · `Consumo de APIs` · `Responsive Design`
-
-**Base de datos**
-
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-`SQL` · `Relaciones entre entidades`
-
-**Integraciones**
-
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
-`Gestión de imágenes` · `Documentación de APIs` · `Variables de entorno (.env)`
+`TypeORM` · `REST APIs` · `JWT` · `Zustand` · `TanStack Query` · `shadcn/ui` · `Cloudinary` · `Mercado Pago`
 
 **Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-`Scrum` · `Agile`
-
-***
-
-## 🚀 Proyectos Destacados
-
-### API REST para E-commerce *(Proyecto Individual – Henry, 2025)*
-API REST para gestionar productos, usuarios, órdenes y categorías en un sistema de e-commerce, desplegada en producción.
-
-* **Rol:** Backend Developer
-* **Stack:** NestJS · TypeORM · PostgreSQL · JWT · Cloudinary · Swagger · Jest · Docker · GitHub Actions
-* **Funcionalidades:** autenticación con JWT y roles (Admin/Tester/User), CRUD con borrado lógico, órdenes con cálculo automático, upload de imágenes con Cloudinary, documentación interactiva con Swagger y CI/CD con GitHub Actions.
-
-🔗 [__Repositorio__](https://github.com/MCervantesGonzalez/Ecommerce_PT29_Deploy) | [__API en producción__](https://ecommerce-pt29-deploy.onrender.com/api#/)
 
 ---
 
-### PowerGym – Plataforma Web de Gestión de Gimnasio *(Proyecto grupal – Henry, 2026)*
-Plataforma web para gestión de un gimnasio con roles diferenciados (usuario, coach y administrador), sistema de reservas, catálogo de clases y compra de membresías.
+## 🚀 Proyectos Destacados
 
-* **Rol:** Frontend Developer
-* **Stack:** Next.js · React · TailwindCSS · NestJS · TypeORM · PostgreSQL
-* **Funcionalidades:** autenticación por roles, exploración de clases, compra de membresías, agendado de clases y diseño UX/UI de interfaces.
+### 1. Sprint Custom — E-commerce End-to-End *(Fullstack - Emprendimiento propio, 2026)*
+Plataforma de productos personalizados con flujo de compra para invitados, seguimiento de orden y panel admin con control de stock.
 
-🔗 [__Ver proyecto__](https://pf-front-ijjg.vercel.app/)
+* **Rol:** Fullstack Developer (de 0 a prod)
+* **Qué resuelve:** Vender sin atender WhatsApp, cobrar con Mercado Pago y gestionar variantes/diseños sin Excel.
+* **Stack:** NestJS, Next.js, TypeScript, PostgreSQL, TypeORM, Tailwind, shadcn/ui, Mercado Pago, Cloudinary
+* **Highlights:** Checkout + direcciones, webhooks asíncronos, JWT + verificación email + rate limiting, dashboard con alertas de stock bajo.
 
-***
+🔗 [Demo](https://sprint-ecommerce-web.onrender.com/) | [Código](https://github.com/MCervantesGonzalez/sprint-ecommerce) | [Portfolio](https://mcervantesportfolio.vercel.app)
+
+---
+### 2. PowerGym — Gestión de Gimnasio con Roles *(Frontend + Colaborativo, 2026)*
+App para gimnasio con roles cliente/coach/admin, reservas de clases y membresías.
+
+* **Rol:** Frontend Developer & UX/UI en equipo de 4
+* **Qué resuelve:** Pasar de cuaderno a reservas online con permisos por rol.
+* **Stack:** Next.js, React, Tailwind CSS, NestJS, PostgreSQL
+* **Highlights:** Flujos condicionales por rol, auth, catálogo de clases y UX responsiva.
+
+🔗 [Demo](https://pf-front-ijjg.vercel.app/) | [Código](https://github.com/PowerGymok/PF-Front)
+
+---
+### 3. API E-commerce — REST API Escalable *(Backend - Henry, 2025)*
+API base que luego evolucionó a Sprint Custom. CRUD, auth por roles, borrado lógico y docs con Swagger.
+
+* **Stack:** NestJS, TypeORM, PostgreSQL, JWT, Cloudinary, Swagger, Jest, Docker, GitHub Actions
+
+🔗 [Repo](https://github.com/MCervantesGonzalez/Ecommerce_PT29_Deploy) | [API Docs](https://ecommerce-pt29-deploy.onrender.com/api#/)
+
+---
 
 ## 🎓 Educación
+* **Henry Bootcamp — Full Stack Web Developer** (2025 – 2026) — 800+ hrs, JS/TS, React, NestJS, PostgreSQL, Scrum, proyectos reales en equipo.
+* **Universidad de Guadalajara — Lic. en Derecho** (2012 – 2016) — Titulado. Análisis lógico, argumentación y gestión de información compleja.
 
-* **Soy Henry** – Full Stack Web Developer *(2025 – 2026)*
-  Bootcamp intensivo con 800+ horas de programación en JavaScript, TypeScript, React, NestJS, PostgreSQL y metodologías ágiles (SCRUM). Proyectos reales en equipo.
+---
 
-* **Universidad de Guadalajara** – Licenciatura en Derecho *(2012 – 2016)*
-  Titulado. Formación en análisis lógico, argumentación estructurada y gestión de información compleja.
-
-***
-
-## *Fuera del código, soy esto:*
-
-
-
-<img src="Pokeball.png" width="30"> Gran fan de Pokémon — elegir a Umbreon como favorito dice bastante de cómo pienso: elegante, nocturno y difícil de derribar.
+## 🙃 Fuera del código
+<img src="Pokeball.png" width="30"> Gran fan de Pokémon | elegir a Umbreon como favorito dice bastante de cómo pienso: elegante, nocturno y difícil de derribar.
 
 <img src="Videogame.png" width="30"> Los videojuegos son mi forma favorita de desconectar, respeto todas las plataformas aunque si tengo que elegir: siempre la PC.
 
 <img src="Yoga.png" width="30"> Fuera del teclado practico diversas actividades, pero el Yoga ganó — porque un dev con la mente clara escribe mejor código.
 
-***
+---
 
-## 📊 GitHub Stats
+## 🎯 Actualmente enfocado en
 
-| | |
-|---|---|
-| ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MCervantesGonzalez&show_icons=true&theme=dark&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=MCervantesGonzalez&theme=dark&hide_border=true)](https://git.io/streak-stats) |
+- Optimizando Sprint Custom para producción: performance, manejo de stock en tiempo real y pagos con Mercado Pago.
+- Aprendiendo testing con Jest y buenas prácticas de arquitectura con NestJS.
+- Abierto a equipo como **Full Stack Jr** y a proyectos freelance para negocios locales en GDL.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCervantesGonzalez&layout=compact&theme=dark&hide_border=true)
+## 🤝 Cómo trabajo
 
-***
+**Descubrimiento → Diseño → Código → Entrega.** 
+Te entrego no solo código, sino el flujo completo: desde la idea hasta el deploy en Vercel/Render con panel para que gestiones tu negocio sin depender de mí.
 
-## 📬 Contacto
+---
 
-*General Kenobi... o mejor dicho, reclutador.*
+*General Kenobi...*
 *Si llegaste hasta aquí, quizás valga la pena hablar. 👇*
 
+## 📬 Contacto
+Busco integrarme a un equipo de producto como **Full Stack Jr** y también tomo proyectos freelance para negocios locales.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-cervantes-g)
-[linkedin.com/in/miguel-cervantes-g](https://www.linkedin.com/in/miguel-cervantes-g)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mcervantesportfolio.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abg.cervantes@gmail.com)
-[abg.cervantes@gmail.com](mailto:abg.cervantes@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/525630605063)
 
-📄 [__Descargar mi CV__](./CV-Miguel-Cervantes-FullStack .pdf)
+📄 [Descargar CV en PDF](/CV-Miguel-Cervantes-FullStack.pdf)
